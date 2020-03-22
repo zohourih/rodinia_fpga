@@ -1,2 +1,1 @@
-# rodinia_fpga
-Rodinia Benchmark Suite for OpenCL-capable Intel FPGAs
+# Moved [here](https://github.com/fpga-opencl-benchmarks/rodinia_fpga)
